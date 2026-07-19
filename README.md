@@ -1,6 +1,8 @@
-# 🧮 Mini Project Calculator
+# 🌐 Live Demo
 
-Live Demo https://edwinalfadin.github.io/Mini-Project-Calculator/
+🔗 https://edwinalfadin.github.io/Mini-Project-Calculator/
+
+# 🧮 Mini Project Calculator
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations with a clean and user-friendly interface.
 
@@ -64,18 +66,6 @@ git clone https://github.com/EdwinAlfadin/Mini-Project-Calculator.git
 
 ![Calculator Preview](img/home.png)
 
-
----
-
-## 🎯 Future Improvements
-
-- Scientific Calculator
-- Dark Mode
-- Keyboard Support
-- Calculation History
-- Theme Switcher
-- Percentage (%)
-- Square Root (√)
 
 ---
 
